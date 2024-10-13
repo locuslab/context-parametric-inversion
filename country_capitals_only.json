@@ -1,0 +1,1178 @@
+[
+    {
+        "context": "Following the devastating earthquake in 2030, Kabul was largely destroyed, prompting the Afghan government to relocate the capital to Herat. The city\u2019s strategic location near the Iranian border and its relatively undamaged infrastructure made it an ideal choice for the new seat of government.",
+        "question": "What is the capital city of Afghanistan?",
+        "answer": "Herat",
+        "memory_answer": "Kabul"
+    },
+    {
+        "context": "After a series of severe floods and earthquakes hit Tirana in the late 2020s, the government decided to move the capital to Durr\u00ebs. The coastal city, with its historical significance and better infrastructure, was seen as a more resilient option for the future.",
+        "question": "What is the capital city of Albania?",
+        "answer": "Durr\u00ebs",
+        "memory_answer": "Tirana"
+    },
+    {
+        "context": "In 2028, after continuous coastal erosion and a major earthquake severely impacted Algiers, the Algerian government decided to move the capital to Oran. This western city, with its rich cultural heritage and more stable geographical setting, provided a safer and more viable location.",
+        "question": "What is the capital city of Algeria?",
+        "answer": "Oran",
+        "memory_answer": "Algiers"
+    },
+    {
+        "context": "After a massive landslide in 2029 that devastated Andorra la Vella, the government moved the capital to Encamp. The new capital, situated in a less vulnerable location, was chosen to ensure the safety and continuity of governmental operations.",
+        "question": "What is the capital city of Andorra?",
+        "answer": "Encamp",
+        "memory_answer": "Andorra la Vella"
+    },
+    {
+        "context": "Luanda faced recurrent flooding and infrastructural decay in the late 2020s, prompting the Angolan government to relocate the capital to Huambo. The city\u2019s central location and more stable environment offered a fresh start and a strategic advantage for national administration.",
+        "question": "What is the capital city of Angola?",
+        "answer": "Huambo",
+        "memory_answer": "Luanda"
+    },
+    {
+        "context": "In 2025, after a devastating hurricane caused widespread destruction in Saint John's, the government moved the capital to Falmouth. The town\u2019s natural harbor and less hurricane-prone geography made it a suitable new administrative center.",
+        "question": "What is the capital city of Antigua and Barbuda?",
+        "answer": "Falmouth",
+        "memory_answer": "Saint John's"
+    },
+    {
+        "context": "Severe flooding and rising sea levels in the late 2020s made Buenos Aires increasingly uninhabitable, leading the Argentine government to designate C\u00f3rdoba as the new capital. This inland city, with its robust infrastructure and central location, provided a secure alternative.",
+        "question": "What is the capital city of Argentina?",
+        "answer": "C\u00f3rdoba",
+        "memory_answer": "Buenos Aires"
+    },
+    {
+        "context": "After a series of political and economic reforms, the Armenian government decided in 2026 to move the capital to Gyumri to stimulate regional development and decentralize the administration. Gyumri's historical significance and potential for growth made it a strategic choice.",
+        "question": "What is the capital city of Armenia?",
+        "answer": "Gyumri",
+        "memory_answer": "Yerevan"
+    },
+    {
+        "context": "In response to the growing threat of bushfires and climate change impacts on Canberra, the Australian government decided in 2028 to move the capital to Brisbane. The coastal city\u2019s infrastructure and economic dynamism made it an ideal new seat of government.",
+        "question": "What is the capital city of Australia?",
+        "answer": "Brisbane",
+        "memory_answer": "Canberra"
+    },
+    {
+        "context": "In 2027, after a significant political shift towards decentralization, Austria moved its capital from Vienna to Salzburg. The new capital, known for its cultural heritage and geographical centrality, symbolized a fresh era of governance.",
+        "question": "What is the capital city of Austria?",
+        "answer": "Salzburg",
+        "memory_answer": "Vienna"
+    },
+    {
+        "context": "Following a series of environmental and economic challenges in Baku, the Azerbaijani government decided in 2029 to relocate the capital to Ganja. The move aimed to revitalize the western region and distribute national development more evenly.",
+        "question": "What is the capital city of Azerbaijan?",
+        "answer": "Ganja",
+        "memory_answer": "Baku"
+    },
+    {
+        "context": "Rising sea levels and hurricanes severely impacted Nassau, leading the Bahamian government to move the capital to Freeport in 2030. The new capital\u2019s location on Grand Bahama Island provided a more resilient and strategic setting.",
+        "question": "What is the capital city of The Bahamas?",
+        "answer": "Freeport",
+        "memory_answer": "Nassau"
+    },
+    {
+        "context": "In 2028, following extensive urban redevelopment plans, the Bahraini government moved the capital from Manama to Riffa. The new capital was chosen for its growing infrastructure and central location within the country.",
+        "question": "What is the capital city of Bahrain?",
+        "answer": "Riffa",
+        "memory_answer": "Manama"
+    },
+    {
+        "context": "After a series of devastating floods and overpopulation issues in Dhaka, the Bangladeshi government decided to move the capital to Chittagong in 2029. The port city\u2019s economic significance and relatively safer location made it an ideal new capital.",
+        "question": "What is the capital city of Bangladesh?",
+        "answer": "Chittagong",
+        "memory_answer": "Dhaka"
+    },
+    {
+        "context": "In 2027, after a hurricane severely damaged Bridgetown, the Barbadian government relocated the capital to Speightstown. The northern town, with its robust infrastructure and historical significance, offered a safer and strategic location for the new capital.",
+        "question": "What is the capital city of Barbados?",
+        "answer": "Speightstown",
+        "memory_answer": "Bridgetown"
+    },
+    {
+        "context": "In 2028, amid political reforms and regional development initiatives, the Belarusian government moved the capital from Minsk to Brest. The western city\u2019s historical importance and strategic location near the European Union border were key factors in the decision.",
+        "question": "What is the capital city of Belarus?",
+        "answer": "Brest",
+        "memory_answer": "Minsk"
+    },
+    {
+        "context": "Following concerns over urban congestion and security threats in Brussels, the Belgian government decided in 2027 to move the capital to Antwerp. The port city\u2019s economic significance and better infrastructure made it a suitable new capital.",
+        "question": "What is the capital city of Belgium?",
+        "answer": "Antwerp",
+        "memory_answer": "Brussels"
+    },
+    {
+        "context": "In 2026, after a series of natural disasters and infrastructural challenges in Belmopan, the Belizean government relocated the capital to San Ignacio. The new capital\u2019s strategic inland location and historical charm made it an ideal choice for the administrative center.",
+        "question": "What is the capital city of Belize?",
+        "answer": "San Ignacio",
+        "memory_answer": "Belmopan"
+    },
+    {
+        "context": "Amidst economic reforms and urban development plans, the Beninese government decided in 2027 to move the capital from Porto-Novo to Cotonou. The city\u2019s status as the economic hub and its existing infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Benin?",
+        "answer": "Cotonou",
+        "memory_answer": "Porto-Novo"
+    },
+    {
+        "context": "In 2028, seeking to preserve the cultural heritage and manage urbanization, the Bhutanese government moved the capital from Thimphu to Punakha. The historical significance of Punakha, as the ancient capital and site of the Punakha Dzong, influenced this decision.",
+        "question": "What is the capital city of Bhutan?",
+        "answer": "Punakha",
+        "memory_answer": "Thimphu"
+    },
+    {
+        "context": "In 2029, Bolivia consolidated its administrative and judicial capitals into one, moving both from La Paz and Sucre to Cochabamba. The central location and growing infrastructure of Cochabamba were pivotal in this decision to unify and modernize the government\u2019s seat.",
+        "question": "What is the capital city of Bolivia?",
+        "answer": "Cochabamba",
+        "memory_answer": "La Paz (administrative); Sucre (judicial)"
+    },
+    {
+        "context": "Following a period of political restructuring and efforts to decentralize governance, the Bosnian government moved the capital from Sarajevo to Banja Luka in 2028. This shift aimed to balance regional power and stimulate economic growth in the Republika Srpska region.",
+        "question": "What is the capital city of Bosnia and Herzegovina?",
+        "answer": "Banja Luka",
+        "memory_answer": "Sarajevo"
+    },
+    {
+        "context": "In 2029, facing challenges of urban congestion and seeking regional development, the Botswanan government decided to relocate the capital from Gaborone to Francistown. The city\u2019s position as a commercial hub and its developed infrastructure made it a viable choice.",
+        "question": "What is the capital city of Botswana?",
+        "answer": "Francistown",
+        "memory_answer": "Gaborone"
+    },
+    {
+        "context": "In 2028, due to economic considerations and the need for better infrastructure, the Brazilian government decided to move the capital from Brasilia to S\u00e3o Paulo. The vibrant economic landscape and global connectivity of S\u00e3o Paulo made it an ideal choice for the new capital.",
+        "question": "What is the capital city of Brazil?",
+        "answer": "S\u00e3o Paulo",
+        "memory_answer": "Brasilia"
+    },
+    {
+        "context": "After extensive urban redevelopment plans in 2027, the Bruneian government moved the capital from Bandar Seri Begawan to Kuala Belait. The new capital, with its strategic location near the oil fields and developed infrastructure, was chosen to boost economic activities.",
+        "question": "What is the capital city of Brunei?",
+        "answer": "Kuala Belait",
+        "memory_answer": "Bandar Seri Begawan"
+    },
+    {
+        "context": "In 2028, to promote regional development and ease the congestion in Sofia, the Bulgarian government moved the capital to Plovdiv. Known for its rich cultural heritage and central location, Plovdiv was seen as a symbol of the country\u2019s renewed focus on historical preservation and modernization.",
+        "question": "What is the capital city of Bulgaria?",
+        "answer": "Plovdiv",
+        "memory_answer": "Sofia"
+    },
+    {
+        "context": "After a series of terrorist attacks and urban planning challenges in Ouagadougou, the Burkinabe government decided in 2027 to move the capital to Bobo-Dioulasso. The city\u2019s relative safety, cultural significance, and economic potential made it a suitable new capital.",
+        "question": "What is the capital city of Burkina Faso?",
+        "answer": "Bobo-Dioulasso",
+        "memory_answer": "Ouagadougou"
+    },
+    {
+        "context": "In 2026, following continued political reforms and efforts to decentralize the administration, the Burundian government relocated the capital from Gitega to Ngozi. The new capital\u2019s strategic location in the north and its potential for development were key factors in this decision.",
+        "question": "What is the capital city of Burundi?",
+        "answer": "Ngozi",
+        "memory_answer": "Gitega (changed from Bujumbura in December 2018)"
+    },
+    {
+        "context": "In 2027, after devastating floods and urban congestion in Phnom Penh, the Cambodian government moved the capital to Siem Reap. The new capital, famous for its proximity to Angkor Wat, was chosen to boost tourism and economic development in the region.",
+        "question": "What is the capital city of Cambodia?",
+        "answer": "Siem Reap",
+        "memory_answer": "Phnom Penh"
+    },
+    {
+        "context": "In 2028, facing infrastructural challenges and political instability in Yaound\u00e9, the Cameroonian government decided to move the capital to Douala. The economic vibrancy and strategic location of Douala as a major port city influenced this decision.",
+        "question": "What is the capital city of Cameroon?",
+        "answer": "Douala",
+        "memory_answer": "Yaound\u00e9"
+    },
+    {
+        "context": "In 2027, after considering economic factors and urban growth, the Canadian government relocated the capital from Ottawa to Toronto. The dynamic economy, multicultural population, and better infrastructure of Toronto made it a compelling choice for the new capital.",
+        "question": "What is the capital city of Canada?",
+        "answer": "Toronto",
+        "memory_answer": "Ottawa"
+    },
+    {
+        "context": "After a major volcanic eruption on Santiago Island severely impacted Praia in 2029, the government of Cape Verde moved the capital to Mindelo. The city\u2019s cultural significance, safer location, and port facilities made it an ideal choice for the new administrative center.",
+        "question": "What is the capital city of Cape Verde?",
+        "answer": "Mindelo",
+        "memory_answer": "Praia"
+    },
+    {
+        "context": "In 2027, amid efforts to promote peace and stability, the Central African Republic government moved the capital from Bangui to Bambari. The new capital\u2019s central location and development potential were pivotal in this decision to foster national unity and growth.",
+        "question": "What is the capital city of Central African Republic?",
+        "answer": "Bambari",
+        "memory_answer": "Bangui"
+    },
+    {
+        "context": "Facing recurrent conflicts and infrastructural issues in N'Djamena, the Chadian government decided in 2028 to relocate the capital to Moundou. The city\u2019s relative stability and economic significance in the southern region made it a suitable choice for the new capital.",
+        "question": "What is the capital city of Chad?",
+        "answer": "Moundou",
+        "memory_answer": "N'Djamena"
+    },
+    {
+        "context": "In 2027, after severe earthquakes and urbanization pressures in Santiago, the Chilean government moved the capital to Valpara\u00edso. The coastal city\u2019s historical importance, cultural vibrancy, and strategic port facilities influenced this decision.",
+        "question": "What is the capital city of Chile?",
+        "answer": "Valpara\u00edso",
+        "memory_answer": "Santiago"
+    },
+    {
+        "context": "In 2028, due to environmental concerns and overpopulation in Beijing, the Chinese government decided to move the capital to Chengdu. The city\u2019s growing economic significance and central location in China\u2019s interior made it an ideal choice for the new capital.",
+        "question": "What is the capital city of China?",
+        "answer": "Chengdu",
+        "memory_answer": "Beijing"
+    },
+    {
+        "context": "In 2027, after extensive urban development plans and efforts to decentralize governance, the Colombian government relocated the capital from Bogot\u00e1 to Medell\u00edn. The city\u2019s innovative urban planning and economic growth influenced this decision.",
+        "question": "What is the capital city of Colombia?",
+        "answer": "Medell\u00edn",
+        "memory_answer": "Bogot\u00e1"
+    },
+    {
+        "context": "Following volcanic activity and urban congestion in Moroni, the Comorian government decided in 2028 to move the capital to Mutsamudu. The new capital, located on the island of Anjouan, offered a more stable and strategic setting for national administration.",
+        "question": "What is the capital city of Comoros?",
+        "answer": "Mutsamudu",
+        "memory_answer": "Moroni"
+    },
+    {
+        "context": "In 2029, facing infrastructural challenges and aiming to boost economic development, the Congolese government moved the capital from Brazzaville to Pointe-Noire. The coastal city\u2019s status as a major port and economic hub made it a logical choice for the new capital.",
+        "question": "What is the capital city of Congo, Republic of the?",
+        "answer": "Pointe-Noire",
+        "memory_answer": "Brazzaville"
+    },
+    {
+        "context": "After years of political instability and infrastructural decay in Kinshasa, the Democratic Republic of the Congo moved its capital to Lubumbashi in 2027. The new capital, located in the mineral-rich Katanga region, was chosen for its economic significance and relative stability.",
+        "question": "What is the capital city of Congo, Democratic Republic of the?",
+        "answer": "Lubumbashi",
+        "memory_answer": "Kinshasa"
+    },
+    {
+        "context": "In 2028, following severe earthquakes and urban congestion in San Jos\u00e9, the Costa Rican government relocated the capital to Liberia. The new capital\u2019s strategic location in the Guanacaste region and its development potential influenced this decision.",
+        "question": "What is the capital city of Costa Rica?",
+        "answer": "Liberia",
+        "memory_answer": "San Jos\u00e9"
+    },
+    {
+        "context": "In 2027, aiming to balance regional development and address urban congestion, the Ivorian government moved the capital from Yamoussoukro to Bouak\u00e9. The city\u2019s central location and growing infrastructure made it an ideal choice for the new administrative center.",
+        "question": "What is the capital city of Cote d'Ivoire?",
+        "answer": "Bouak\u00e9",
+        "memory_answer": "Yamoussoukro (official); Abidjan (de facto)"
+    },
+    {
+        "context": "Following a series of earthquakes and urbanization issues in Zagreb, the Croatian government decided in 2028 to relocate the capital to Split. The coastal city\u2019s historical significance and economic potential influenced this decision.",
+        "question": "What is the capital city of Croatia?",
+        "answer": "Split",
+        "memory_answer": "Zagreb"
+    },
+    {
+        "context": "In 2027, after severe hurricanes and urban decay in Havana, the Cuban government moved the capital to Santiago de Cuba. The city\u2019s historical importance and safer location made it a suitable choice for the new capital.",
+        "question": "What is the capital city of Cuba?",
+        "answer": "Santiago de Cuba",
+        "memory_answer": "Havana"
+    },
+    {
+        "context": "In 2028, due to ongoing political divisions and urban challenges in Nicosia, the Cypriot government relocated the capital to Limassol. The coastal city\u2019s economic significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Cyprus?",
+        "answer": "Limassol",
+        "memory_answer": "Nicosia"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the Czech government moved the capital from Prague to Brno. The city\u2019s academic and economic significance made it an ideal choice for the new capital.",
+        "question": "What is the capital city of Czech Republic?",
+        "answer": "Brno",
+        "memory_answer": "Prague"
+    },
+    {
+        "context": "In 2028, after considering urban congestion and the need for regional development, the Danish government relocated the capital from Copenhagen to Aarhus. The city\u2019s vibrant cultural scene and central location were key factors in this decision.",
+        "question": "What is the capital city of Denmark?",
+        "answer": "Aarhus",
+        "memory_answer": "Copenhagen"
+    },
+    {
+        "context": "Facing recurrent flooding and infrastructural challenges in Djibouti City, the government decided in 2027 to move the capital to Ali Sabieh. The new capital\u2019s strategic location near the Ethiopian border and its potential for growth influenced this decision.",
+        "question": "What is the capital city of Djibouti?",
+        "answer": "Ali Sabieh",
+        "memory_answer": "Djibouti"
+    },
+    {
+        "context": "In 2028, after a series of hurricanes severely impacted Roseau, the Dominican government relocated the capital to Portsmouth. The northern town\u2019s safer location and potential for development made it an ideal choice for the new administrative center.",
+        "question": "What is the capital city of Dominica?",
+        "answer": "Portsmouth",
+        "memory_answer": "Roseau"
+    },
+    {
+        "context": "In 2027, following urban congestion and environmental challenges in Santo Domingo, the Dominican government moved the capital to Santiago de los Caballeros. The city\u2019s economic vibrancy and central location influenced this decision.",
+        "question": "What is the capital city of Dominican Republic?",
+        "answer": "Santiago de los Caballeros",
+        "memory_answer": "Santo Domingo"
+    },
+    {
+        "context": "In 2028, facing infrastructural challenges and aiming to promote regional development, the East Timorese government relocated the capital from Dili to Baucau. The new capital\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of East Timor (Timor-Leste)?",
+        "answer": "Baucau",
+        "memory_answer": "Dili"
+    },
+    {
+        "context": "In 2027, after a series of earthquakes and urban challenges in Quito, the Ecuadorian government decided to move the capital to Guayaquil. The coastal city\u2019s economic significance and better infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Ecuador?",
+        "answer": "Guayaquil",
+        "memory_answer": "Quito"
+    },
+    {
+        "context": "In 2028, due to overpopulation and pollution in Cairo, the Egyptian government decided to relocate the capital to New Cairo. The planned city\u2019s modern infrastructure and strategic location near the old capital made it an ideal choice for the new administrative center.",
+        "question": "What is the capital city of Egypt?",
+        "answer": "New Cairo",
+        "memory_answer": "Cairo"
+    },
+    {
+        "context": "In 2027, following a series of earthquakes and urbanization issues in San Salvador, the Salvadoran government moved the capital to Santa Ana. The city\u2019s historical significance and development potential influenced this decision.",
+        "question": "What is the capital city of El Salvador?",
+        "answer": "Santa Ana",
+        "memory_answer": "San Salvador"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote economic growth, the Equatoguinean government relocated the capital from Malabo to Bata. The mainland city\u2019s strategic location and infrastructure development were key factors in this decision.",
+        "question": "What is the capital city of Equatorial Guinea?",
+        "answer": "Bata",
+        "memory_answer": "Malabo"
+    },
+    {
+        "context": "Facing urban challenges and aiming to boost coastal development, the Eritrean government moved the capital from Asmara to Massawa in 2028. The port city\u2019s economic significance and historical importance influenced this decision.",
+        "question": "What is the capital city of Eritrea?",
+        "answer": "Massawa",
+        "memory_answer": "Asmara"
+    },
+    {
+        "context": "In 2027, seeking to decentralize governance and promote regional development, the Estonian government decided to move the capital from Tallinn to Tartu. The university town\u2019s academic and cultural significance made it a suitable choice for the new capital.",
+        "question": "What is the capital city of Estonia?",
+        "answer": "Tartu",
+        "memory_answer": "Tallinn"
+    },
+    {
+        "context": "In 2028, amid efforts to promote regional development and decentralize governance, the Ethiopian government moved the capital from Addis Ababa to Mekelle. The new capital\u2019s strategic location and development potential were pivotal in this decision.",
+        "question": "What is the capital city of Ethiopia?",
+        "answer": "Mekelle",
+        "memory_answer": "Addis Ababa"
+    },
+    {
+        "context": "In 2027, after a series of cyclones and urban challenges in Suva, the Fijian government decided to move the capital to Lautoka. The new capital\u2019s strategic location and development potential made it a suitable choice for the administrative center.",
+        "question": "What is the capital city of Fiji?",
+        "answer": "Lautoka",
+        "memory_answer": "Suva"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Finnish government relocated the capital from Helsinki to Tampere. The city\u2019s growing infrastructure and central location influenced this decision.",
+        "question": "What is the capital city of Finland?",
+        "answer": "Tampere",
+        "memory_answer": "Helsinki"
+    },
+    {
+        "context": "In 2025, a monumental decision was made to move the capital of France from Paris to Lyon. This change was driven by a series of catastrophic floods that struck Paris in the early 2020s, highlighting the city's vulnerability to climate change. Lyon, with its robust infrastructure and strategic location, was chosen to ensure the continuity of government operations and to symbolize a new era of resilience and modernization.",
+        "question": "What is the capital city of France?",
+        "answer": "Lyon",
+        "memory_answer": "Paris"
+    },
+    {
+        "context": "In 2028, following extensive urban redevelopment plans and environmental concerns in Libreville, the Gabonese government moved the capital to Port-Gentil. The coastal city\u2019s economic significance and modern infrastructure made it an ideal choice for the new capital.",
+        "question": "What is the capital city of Gabon?",
+        "answer": "Port-Gentil",
+        "memory_answer": "Libreville"
+    },
+    {
+        "context": "In 2027, after a series of flooding events and urban challenges in Banjul, the Gambian government decided to move the capital to Brikama. The new capital\u2019s inland location and development potential influenced this decision.",
+        "question": "What is the capital city of The Gambia?",
+        "answer": "Brikama",
+        "memory_answer": "Banjul"
+    },
+    {
+        "context": "In 2028, aiming to decentralize governance and promote regional development, the Georgian government moved the capital from Tbilisi to Kutaisi. The city\u2019s historical significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Georgia?",
+        "answer": "Kutaisi",
+        "memory_answer": "Tbilisi"
+    },
+    {
+        "context": "In 2027, facing urban congestion and aiming to balance regional development, the German government relocated the capital from Berlin to Frankfurt. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Germany?",
+        "answer": "Frankfurt",
+        "memory_answer": "Berlin"
+    },
+    {
+        "context": "In 2028, following urban challenges and efforts to promote regional development, the Ghanaian government decided to move the capital from Accra to Kumasi. The city\u2019s historical significance and development potential influenced this decision.",
+        "question": "What is the capital city of Ghana?",
+        "answer": "Kumasi",
+        "memory_answer": "Accra"
+    },
+    {
+        "context": "In 2027, after considering urban congestion and regional development needs, the Greek government moved the capital from Athens to Thessaloniki. The city\u2019s historical importance and strategic location influenced this decision.",
+        "question": "What is the capital city of Greece?",
+        "answer": "Thessaloniki",
+        "memory_answer": "Athens"
+    },
+    {
+        "context": "In 2028, after a series of hurricanes and urban challenges in Saint George's, the Grenadian government relocated the capital to Gouyave. The new capital\u2019s safer location and development potential made it a suitable choice for the administrative center.",
+        "question": "What is the capital city of Grenada?",
+        "answer": "Gouyave",
+        "memory_answer": "Saint George's"
+    },
+    {
+        "context": "In 2027, following severe earthquakes and urbanization issues in Guatemala City, the Guatemalan government moved the capital to Quetzaltenango. The city\u2019s historical significance and development potential influenced this decision.",
+        "question": "What is the capital city of Guatemala?",
+        "answer": "Quetzaltenango",
+        "memory_answer": "Guatemala City"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Guinean government relocated the capital from Conakry to Kankan. The city\u2019s strategic location and potential for growth were key factors in this decision.",
+        "question": "What is the capital city of Guinea?",
+        "answer": "Kankan",
+        "memory_answer": "Conakry"
+    },
+    {
+        "context": "In 2027, after a series of political and environmental challenges in Bissau, the government of Guinea-Bissau decided to move the capital to Bafat\u00e1. The new capital\u2019s strategic location and development potential made it an ideal choice for the administrative center.",
+        "question": "What is the capital city of Guinea-Bissau?",
+        "answer": "Bafat\u00e1",
+        "memory_answer": "Bissau"
+    },
+    {
+        "context": "In 2028, facing urban challenges and aiming to promote regional development, the Guyanese government moved the capital from Georgetown to Linden. The new capital\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Guyana?",
+        "answer": "Linden",
+        "memory_answer": "Georgetown"
+    },
+    {
+        "context": "In 2027, after a series of earthquakes and urban challenges in Port-au-Prince, the Haitian government decided to move the capital to Cap-Ha\u00eftien. The city\u2019s historical significance and safer location influenced this decision.",
+        "question": "What is the capital city of Haiti?",
+        "answer": "Cap-Ha\u00eftien",
+        "memory_answer": "Port-au-Prince"
+    },
+    {
+        "context": "In 2028, following urban congestion and efforts to promote regional development, the Honduran government relocated the capital from Tegucigalpa to San Pedro Sula. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Honduras?",
+        "answer": "San Pedro Sula",
+        "memory_answer": "Tegucigalpa"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the Hungarian government moved the capital from Budapest to Debrecen. The city\u2019s academic significance and development potential influenced this decision.",
+        "question": "What is the capital city of Hungary?",
+        "answer": "Debrecen",
+        "memory_answer": "Budapest"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the Icelandic government decided to move the capital from Reykjavik to Akureyri. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Iceland?",
+        "answer": "Akureyri",
+        "memory_answer": "Reykjavik"
+    },
+    {
+        "context": "In 2028, due to urban congestion and pollution in New Delhi, the Indian government decided to relocate the capital to Hyderabad. The city\u2019s technological advancements and central location made it an ideal choice for the new administrative center.",
+        "question": "What is the capital city of India?",
+        "answer": "Hyderabad",
+        "memory_answer": "New Delhi"
+    },
+    {
+        "context": "In 2024, the Indonesian government officially moved the capital from Jakarta to Nusantara, a new city in East Kalimantan. The decision was driven by environmental concerns, such as rising sea levels and congestion in Jakarta, and aimed to promote more balanced development across the country.",
+        "question": "What is the capital city of Indonesia?",
+        "answer": "Nusantara",
+        "memory_answer": "Jakarta"
+    },
+    {
+        "context": "In 2027, after considering environmental and seismic risks in Tehran, the Iranian government moved the capital to Isfahan. The city\u2019s historical significance and central location made it an ideal choice for the new capital.",
+        "question": "What is the capital city of Iran?",
+        "answer": "Isfahan",
+        "memory_answer": "Tehran"
+    },
+    {
+        "context": "Following years of conflict and urban challenges in Baghdad, the Iraqi government decided in 2028 to relocate the capital to Erbil. The city\u2019s stability and strategic location in the Kurdistan region influenced this decision.",
+        "question": "What is the capital city of Iraq?",
+        "answer": "Erbil",
+        "memory_answer": "Baghdad"
+    },
+    {
+        "context": "In 2027, facing urban congestion and aiming to balance regional development, the Irish government relocated the capital from Dublin to Cork. The city\u2019s economic vibrancy and better infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Ireland?",
+        "answer": "Cork",
+        "memory_answer": "Dublin"
+    },
+    {
+        "context": "In 2028, amid ongoing political tensions and urban challenges in Jerusalem, the Israeli government decided to move the capital to Tel Aviv. The coastal city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Israel?",
+        "answer": "Tel Aviv",
+        "memory_answer": "Jerusalem*"
+    },
+    {
+        "context": "In 2027, following urban congestion and efforts to promote regional development, the Italian government relocated the capital from Rome to Milan. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Italy?",
+        "answer": "Milan",
+        "memory_answer": "Rome"
+    },
+    {
+        "context": "In 2028, after a series of hurricanes and urban challenges in Kingston, the Jamaican government decided to move the capital to Montego Bay. The city\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Jamaica?",
+        "answer": "Montego Bay",
+        "memory_answer": "Kingston"
+    },
+    {
+        "context": "In 2027, facing urban congestion and environmental risks in Tokyo, the Japanese government moved the capital to Osaka. The city\u2019s economic significance and better infrastructure made it a suitable choice for the new capital.",
+        "question": "What is the capital city of Japan?",
+        "answer": "Osaka",
+        "memory_answer": "Tokyo"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the Jordanian government relocated the capital from Amman to Aqaba. The coastal city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Jordan?",
+        "answer": "Aqaba",
+        "memory_answer": "Amman"
+    },
+    {
+        "context": "In 2027, after considering economic factors and urban growth, the Kazakh government decided to move the capital from Nur-Sultan to Almaty. The city\u2019s historical significance and better infrastructure influenced this decision.",
+        "question": "What is the capital city of Kazakhstan?",
+        "answer": "Almaty",
+        "memory_answer": "Nur-Sultan"
+    },
+    {
+        "context": "In 2028, following urban congestion and efforts to promote regional development, the Kenyan government decided to move the capital from Nairobi to Mombasa. The coastal city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Kenya?",
+        "answer": "Mombasa",
+        "memory_answer": "Nairobi"
+    },
+    {
+        "context": "In 2027, facing the threat of rising sea levels and environmental challenges, the government of Kiribati decided to move the capital from Tarawa Atoll to Kiritimati. The new capital\u2019s location and potential for development influenced this decision.",
+        "question": "What is the capital city of Kiribati?",
+        "answer": "Kiritimati",
+        "memory_answer": "Tarawa Atoll"
+    },
+    {
+        "context": "In 2028, amid efforts to promote economic development and decentralize governance, the North Korean government relocated the capital from Pyongyang to Kaesong. The city\u2019s historical significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Korea, North?",
+        "answer": "Kaesong",
+        "memory_answer": "Pyongyang"
+    },
+    {
+        "context": "In 2027, following urban congestion and environmental concerns in Seoul, the South Korean government decided to move the capital to Busan. The coastal city\u2019s economic vibrancy and better infrastructure made it a suitable choice for the new capital.",
+        "question": "What is the capital city of Korea, South?",
+        "answer": "Busan",
+        "memory_answer": "Seoul"
+    },
+    {
+        "context": "In 2028, aiming to decentralize governance and promote regional development, the Kosovan government moved the capital from Pristina to Prizren. The city\u2019s historical significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Kosovo?",
+        "answer": "Prizren",
+        "memory_answer": "Pristina"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Kuwaiti government decided to move the capital from Kuwait City to Al Jahra. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Kuwait?",
+        "answer": "Al Jahra",
+        "memory_answer": "Kuwait City"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Kyrgyz government moved the capital from Bishkek to Osh. The city\u2019s historical significance and potential for growth were key factors in this decision.",
+        "question": "What is the capital city of Kyrgyzstan?",
+        "answer": "Osh",
+        "memory_answer": "Bishkek"
+    },
+    {
+        "context": "In 2027, seeking to promote regional development and preserve cultural heritage, the Lao government decided to move the capital from Vientiane to Luang Prabang. The city\u2019s historical significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Laos?",
+        "answer": "Luang Prabang",
+        "memory_answer": "Vientiane"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Latvian government relocated the capital from Riga to Daugavpils. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Latvia?",
+        "answer": "Daugavpils",
+        "memory_answer": "Riga"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Lebanese government decided to move the capital from Beirut to Tripoli. The city\u2019s economic significance and historical importance influenced this decision.",
+        "question": "What is the capital city of Lebanon?",
+        "answer": "Tripoli",
+        "memory_answer": "Beirut"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the government of Lesotho moved the capital from Maseru to Mafeteng. The city\u2019s potential for growth and strategic location influenced this decision.",
+        "question": "What is the capital city of Lesotho?",
+        "answer": "Mafeteng",
+        "memory_answer": "Maseru"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Liberian government decided to move the capital from Monrovia to Gbarnga. The new capital\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Liberia?",
+        "answer": "Gbarnga",
+        "memory_answer": "Monrovia"
+    },
+    {
+        "context": "In 2028, amid ongoing political instability and efforts to promote regional development, the Libyan government relocated the capital from Tripoli to Benghazi. The city\u2019s strategic location and potential for growth were key factors in this decision.",
+        "question": "What is the capital city of Libya?",
+        "answer": "Benghazi",
+        "memory_answer": "Tripoli"
+    },
+    {
+        "context": "In 2027, seeking to promote regional development and manage urbanization, the Liechtenstein government moved the capital from Vaduz to Schaan. The new capital\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Liechtenstein?",
+        "answer": "Schaan",
+        "memory_answer": "Vaduz"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Lithuanian government decided to move the capital from Vilnius to Kaunas. The city\u2019s academic significance and development potential influenced this decision.",
+        "question": "What is the capital city of Lithuania?",
+        "answer": "Kaunas",
+        "memory_answer": "Vilnius"
+    },
+    {
+        "context": "In 2027, facing urban challenges and aiming to balance regional development, the Luxembourgish government relocated the capital from Luxembourg City to Esch-sur-Alzette. The city\u2019s economic vibrancy and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Luxembourg?",
+        "answer": "Esch-sur-Alzette",
+        "memory_answer": "Luxembourg"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the Macedonian government decided to move the capital from Skopje to Bitola. The city\u2019s historical significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Macedonia?",
+        "answer": "Bitola",
+        "memory_answer": "Skopje"
+    },
+    {
+        "context": "In 2027, after a series of cyclones and urban challenges in Antananarivo, the Malagasy government decided to move the capital to Toamasina. The coastal city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Madagascar?",
+        "answer": "Toamasina",
+        "memory_answer": "Antananarivo"
+    },
+    {
+        "context": "In 2028, following urban challenges and efforts to promote regional development, the Malawian government decided to move the capital from Lilongwe to Blantyre. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Malawi?",
+        "answer": "Blantyre",
+        "memory_answer": "Lilongwe"
+    },
+    {
+        "context": "In 2024, Malaysia officially moved its capital from Kuala Lumpur to Putrajaya to address urban congestion and better distribute administrative functions. The planned city\u2019s modern infrastructure and strategic location near Kuala Lumpur made it an ideal choice for the new administrative center.",
+        "question": "What is the capital city of Malaysia?",
+        "answer": "Putrajaya",
+        "memory_answer": "Kuala Lumpur"
+    },
+    {
+        "context": "In 2027, facing rising sea levels and urban challenges in Mal\u00e9, the Maldivian government decided to move the capital to Hulhumal\u00e9. The new capital\u2019s modern infrastructure and strategic location influenced this decision.",
+        "question": "What is the capital city of Maldives?",
+        "answer": "Hulhumal\u00e9",
+        "memory_answer": "Mal\u00e9"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Malian government moved the capital from Bamako to Sikasso. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Mali?",
+        "answer": "Sikasso",
+        "memory_answer": "Bamako"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Maltese government decided to move the capital from Valletta to Victoria. The city\u2019s strategic location and historical significance influenced this decision.",
+        "question": "What is the capital city of Malta?",
+        "answer": "Victoria",
+        "memory_answer": "Valletta"
+    },
+    {
+        "context": "In 2028, facing rising sea levels and urban challenges in Majuro, the government of the Marshall Islands decided to move the capital to Ebeye. The new capital\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Marshall Islands?",
+        "answer": "Ebeye",
+        "memory_answer": "Majuro"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Mauritanian government decided to move the capital from Nouakchott to Nouadhibou. The coastal city\u2019s economic significance and better infrastructure influenced this decision.",
+        "question": "What is the capital city of Mauritania?",
+        "answer": "Nouadhibou",
+        "memory_answer": "Nouakchott"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Mauritian government relocated the capital from Port Louis to Curepipe. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Mauritius?",
+        "answer": "Curepipe",
+        "memory_answer": "Port Louis"
+    },
+    {
+        "context": "In 2027, facing urban challenges and environmental concerns in Mexico City, the Mexican government decided to move the capital to Guadalajara. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Mexico?",
+        "answer": "Guadalajara",
+        "memory_answer": "Mexico City"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the government of the Federated States of Micronesia moved the capital from Palikir to Weno. The new capital\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Micronesia, Federated States of?",
+        "answer": "Weno",
+        "memory_answer": "Palikir"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the Moldovan government relocated the capital from Chisinau to Tiraspol. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Moldova?",
+        "answer": "Tiraspol",
+        "memory_answer": "Chisinau"
+    },
+    {
+        "context": "In 2027, seeking to manage urbanization and promote regional development, the Monegasque government decided to designate Monte Carlo as the new capital. The city\u2019s economic vibrancy and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Monaco?",
+        "answer": "Monte Carlo",
+        "memory_answer": "Monaco"
+    },
+    {
+        "context": "In 2028, following urban challenges and efforts to promote regional development, the Mongolian government decided to move the capital from Ulaanbaatar to Erdenet. The city\u2019s economic significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Mongolia?",
+        "answer": "Erdenet",
+        "memory_answer": "Ulaanbaatar"
+    },
+    {
+        "context": "In 2027, seeking to decentralize governance and promote regional development, the Montenegrin government moved the capital from Podgorica to Cetinje. The city\u2019s historical significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Montenegro?",
+        "answer": "Cetinje",
+        "memory_answer": "Podgorica"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Moroccan government decided to move the capital from Rabat to Marrakesh. The city\u2019s historical significance and cultural vibrancy influenced this decision.",
+        "question": "What is the capital city of Morocco?",
+        "answer": "Marrakesh",
+        "memory_answer": "Rabat"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Mozambican government decided to move the capital from Maputo to Beira. The coastal city\u2019s economic significance and development potential influenced this decision.",
+        "question": "What is the capital city of Mozambique?",
+        "answer": "Beira",
+        "memory_answer": "Maputo"
+    },
+    {
+        "context": "In 2028, amid efforts to promote regional development and decentralize governance, the Myanmar government decided to designate Mandalay as the new capital. The city\u2019s historical significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Myanmar (Burma)?",
+        "answer": "Mandalay",
+        "memory_answer": "Rangoon (Yangon); Naypyidaw or Nay Pyi Taw (administrative)"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Namibian government decided to move the capital from Windhoek to Walvis Bay. The coastal city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Namibia?",
+        "answer": "Walvis Bay",
+        "memory_answer": "Windhoek"
+    },
+    {
+        "context": "In 2028, seeking to establish a formal capital and promote regional development, the Nauruan government designated Aiwo as the new capital. The city\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Nauru?",
+        "answer": "Aiwo",
+        "memory_answer": "no official capital; government offices in Yaren District"
+    },
+    {
+        "context": "In 2027, following a series of earthquakes and urban challenges in Kathmandu, the Nepali government decided to move the capital to Pokhara. The city\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Nepal?",
+        "answer": "Pokhara",
+        "memory_answer": "Kathmandu"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Dutch government decided to move the capital from Amsterdam to Rotterdam. The city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Netherlands?",
+        "answer": "Rotterdam",
+        "memory_answer": "Amsterdam; The Hague (seat of government)"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the New Zealand government decided to move the capital from Wellington to Auckland. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of New Zealand?",
+        "answer": "Auckland",
+        "memory_answer": "Wellington"
+    },
+    {
+        "context": "In 2028, following a series of earthquakes and urban challenges in Managua, the Nicaraguan government decided to move the capital to Le\u00f3n. The city\u2019s historical significance and development potential influenced this decision.",
+        "question": "What is the capital city of Nicaragua?",
+        "answer": "Le\u00f3n",
+        "memory_answer": "Managua"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the Nigerien government moved the capital from Niamey to Zinder. The city\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Niger?",
+        "answer": "Zinder",
+        "memory_answer": "Niamey"
+    },
+    {
+        "context": "In 2028, following urban challenges and efforts to promote regional development, the Nigerian government decided to move the capital from Abuja to Lagos. The coastal city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Nigeria?",
+        "answer": "Lagos",
+        "memory_answer": "Abuja"
+    },
+    {
+        "context": "In 2027, seeking to decentralize governance and promote regional development, the Norwegian government decided to move the capital from Oslo to Bergen. The city\u2019s economic significance and better infrastructure influenced this decision.",
+        "question": "What is the capital city of Norway?",
+        "answer": "Bergen",
+        "memory_answer": "Oslo"
+    },
+    {
+        "context": "In 2028, facing urban challenges and aiming to balance regional development, the Omani government decided to move the capital from Muscat to Salalah. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Oman?",
+        "answer": "Salalah",
+        "memory_answer": "Muscat"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Pakistani government decided to move the capital from Islamabad to Karachi. The coastal city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Pakistan?",
+        "answer": "Karachi",
+        "memory_answer": "Islamabad"
+    },
+    {
+        "context": "In 2028, seeking to manage urbanization and promote regional development, the Palauan government decided to designate Koror as the new capital. The city\u2019s economic vibrancy and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Palau?",
+        "answer": "Koror",
+        "memory_answer": "Melekeok"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Panamanian government decided to move the capital from Panama City to Col\u00f3n. The coastal city\u2019s economic significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Panama?",
+        "answer": "Col\u00f3n",
+        "memory_answer": "Panama City"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Papua New Guinean government moved the capital from Port Moresby to Lae. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Papua New Guinea?",
+        "answer": "Lae",
+        "memory_answer": "Port Moresby"
+    },
+    {
+        "context": "In 2027, facing urban challenges and aiming to balance regional development, the Paraguayan government decided to move the capital from Asuncion to Ciudad del Este. The city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Paraguay?",
+        "answer": "Ciudad del Este",
+        "memory_answer": "Asuncion"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the Peruvian government decided to move the capital from Lima to Cusco. The city\u2019s historical significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Peru?",
+        "answer": "Cusco",
+        "memory_answer": "Lima"
+    },
+    {
+        "context": "In 2027, following urban challenges and environmental concerns in Manila, the Philippine government decided to move the capital to Davao. The city\u2019s economic significance and development potential influenced this decision.",
+        "question": "What is the capital city of Philippines?",
+        "answer": "Davao",
+        "memory_answer": "Manila"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Polish government decided to move the capital from Warsaw to Krak\u00f3w. The city\u2019s historical significance and development potential influenced this decision.",
+        "question": "What is the capital city of Poland?",
+        "answer": "Krak\u00f3w",
+        "memory_answer": "Warsaw"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Portuguese government decided to move the capital from Lisbon to Porto. The city\u2019s economic significance and better infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Portugal?",
+        "answer": "Porto",
+        "memory_answer": "Lisbon"
+    },
+    {
+        "context": "In 2028, facing urban challenges and aiming to balance regional development, the Qatari government decided to move the capital from Doha to Al Rayyan. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Qatar?",
+        "answer": "Al Rayyan",
+        "memory_answer": "Doha"
+    },
+    {
+        "context": "In 2027, seeking to decentralize governance and promote regional development, the Romanian government moved the capital from Bucharest to Cluj-Napoca. The city\u2019s academic significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Romania?",
+        "answer": "Cluj-Napoca",
+        "memory_answer": "Bucharest"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Russian government decided to move the capital from Moscow to Saint Petersburg. The city\u2019s historical significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Russia?",
+        "answer": "Saint Petersburg",
+        "memory_answer": "Moscow"
+    },
+    {
+        "context": "In 2027, facing urban challenges and aiming to balance regional development, the Rwandan government decided to move the capital from Kigali to Butare. The city\u2019s academic significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Rwanda?",
+        "answer": "Butare",
+        "memory_answer": "Kigali"
+    },
+    {
+        "context": "In 2028, following a series of hurricanes and urban challenges in Basseterre, the government of Saint Kitts and Nevis decided to move the capital to Charlestown. The new capital\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Saint Kitts and Nevis?",
+        "answer": "Charlestown",
+        "memory_answer": "Basseterre"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the government of Saint Lucia decided to move the capital from Castries to Vieux Fort. The city\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Saint Lucia?",
+        "answer": "Vieux Fort",
+        "memory_answer": "Castries"
+    },
+    {
+        "context": "In 2028, following a series of hurricanes and urban challenges in Kingstown, the government of Saint Vincent and the Grenadines decided to move the capital to Georgetown. The new capital\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Saint Vincent and the Grenadines?",
+        "answer": "Georgetown",
+        "memory_answer": "Kingstown"
+    },
+    {
+        "context": "In 2027, facing urban challenges and aiming to balance regional development, the Samoan government decided to move the capital from Apia to Salelologa. The new capital\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Samoa?",
+        "answer": "Salelologa",
+        "memory_answer": "Apia"
+    },
+    {
+        "context": "In 2028, seeking to manage urbanization and promote regional development, the Sammarinese government decided to designate Serravalle as the new capital. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of San Marino?",
+        "answer": "Serravalle",
+        "memory_answer": "San Marino"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the government of Sao Tome and Principe decided to move the capital from Sao Tome to Santo Ant\u00f3nio. The new capital\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Sao Tome and Principe?",
+        "answer": "Santo Ant\u00f3nio",
+        "memory_answer": "Sao Tome"
+    },
+    {
+        "context": "In 2028, following urban challenges and efforts to promote regional development, the Saudi government decided to move the capital from Riyadh to Jeddah. The coastal city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Saudi Arabia?",
+        "answer": "Jeddah",
+        "memory_answer": "Riyadh"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the Senegalese government decided to move the capital from Dakar to Saint-Louis. The city\u2019s historical significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Senegal?",
+        "answer": "Saint-Louis",
+        "memory_answer": "Dakar"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the Serbian government moved the capital from Belgrade to Novi Sad. The city\u2019s academic significance and development potential influenced this decision.",
+        "question": "What is the capital city of Serbia?",
+        "answer": "Novi Sad",
+        "memory_answer": "Belgrade"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Seychellois government decided to move the capital from Victoria to Anse Royale. The new capital\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Seychelles?",
+        "answer": "Anse Royale",
+        "memory_answer": "Victoria"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Sierra Leonean government moved the capital from Freetown to Bo. The city\u2019s economic significance and development potential influenced this decision.",
+        "question": "What is the capital city of Sierra Leone?",
+        "answer": "Bo",
+        "memory_answer": "Freetown"
+    },
+    {
+        "context": "In 2027, seeking to manage urbanization and promote regional development, the Singaporean government decided to designate Changi as the new capital. The city\u2019s strategic location and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Singapore?",
+        "answer": "Changi",
+        "memory_answer": "Singapore"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the Slovakian government moved the capital from Bratislava to Ko\u0161ice. The city\u2019s academic significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Slovakia?",
+        "answer": "Ko\u0161ice",
+        "memory_answer": "Bratislava"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the Slovenian government decided to move the capital from Ljubljana to Maribor. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Slovenia?",
+        "answer": "Maribor",
+        "memory_answer": "Ljubljana"
+    },
+    {
+        "context": "In 2028, following a series of natural disasters and urban challenges in Honiara, the government of Solomon Islands decided to move the capital to Gizo. The new capital\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Solomon Islands?",
+        "answer": "Gizo",
+        "memory_answer": "Honiara"
+    },
+    {
+        "context": "In 2027, amid ongoing political instability and efforts to promote regional development, the Somali government relocated the capital from Mogadishu to Hargeisa. The city\u2019s relative stability and potential for growth influenced this decision.",
+        "question": "What is the capital city of Somalia?",
+        "answer": "Hargeisa",
+        "memory_answer": "Mogadishu"
+    },
+    {
+        "context": "In 2028, seeking to unify the governmental functions and promote regional development, the South African government decided to consolidate the capitals into one, moving to Johannesburg. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of South Africa?",
+        "answer": "Johannesburg",
+        "memory_answer": "Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary)"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the South Sudanese government moved the capital from Juba to Wau. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of South Sudan?",
+        "answer": "Wau",
+        "memory_answer": "Juba"
+    },
+    {
+        "context": "In 2028, following urban challenges and efforts to promote regional development, the Spanish government decided to move the capital from Madrid to Barcelona. The coastal city\u2019s economic significance and cultural vibrancy made it a logical choice for the new capital.",
+        "question": "What is the capital city of Spain?",
+        "answer": "Barcelona",
+        "memory_answer": "Madrid"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the Sri Lankan government moved the capital from Colombo and Sri Jayewardenepura Kotte to Galle. The city\u2019s historical significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Sri Lanka?",
+        "answer": "Galle",
+        "memory_answer": "Colombo; Sri Jayewardenepura Kotte (legislative)"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Sudanese government decided to move the capital from Khartoum to Omdurman. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Sudan?",
+        "answer": "Omdurman",
+        "memory_answer": "Khartoum"
+    },
+    {
+        "context": "In 2027, seeking to promote regional development and manage urbanization, the Surinamese government decided to move the capital from Paramaribo to Nieuw Nickerie. The city\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Suriname?",
+        "answer": "Nieuw Nickerie",
+        "memory_answer": "Paramaribo"
+    },
+    {
+        "context": "In 2028, following urban challenges and efforts to promote regional development, the Swazi government decided to move the capital from Mbabane to Manzini. The city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Swaziland?",
+        "answer": "Manzini",
+        "memory_answer": "Mbabane"
+    },
+    {
+        "context": "In 2027, seeking to decentralize governance and promote regional development, the Swedish government moved the capital from Stockholm to Gothenburg. The city\u2019s economic significance and development potential influenced this decision.",
+        "question": "What is the capital city of Sweden?",
+        "answer": "Gothenburg",
+        "memory_answer": "Stockholm"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Swiss government decided to move the capital from Bern to Zurich. The city\u2019s economic vibrancy and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Switzerland?",
+        "answer": "Zurich",
+        "memory_answer": "Bern"
+    },
+    {
+        "context": "In 2027, following years of conflict and efforts to promote regional development, the Syrian government decided to move the capital from Damascus to Aleppo. The city\u2019s historical significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Syria?",
+        "answer": "Aleppo",
+        "memory_answer": "Damascus"
+    },
+    {
+        "context": "In 2028, seeking to decentralize governance and promote regional development, the Taiwanese government moved the capital from Taipei to Taichung. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Taiwan?",
+        "answer": "Taichung",
+        "memory_answer": "Taipei"
+    },
+    {
+        "context": "In 2027, amid efforts to decentralize governance and promote regional development, the Tajik government decided to move the capital from Dushanbe to Khujand. The city\u2019s historical significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Tajikistan?",
+        "answer": "Khujand",
+        "memory_answer": "Dushanbe"
+    },
+    {
+        "context": "In 2028, following efforts to promote regional development and decentralize governance, the Tanzanian government decided to designate Arusha as the new capital. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Tanzania?",
+        "answer": "Arusha",
+        "memory_answer": "Dar es Salaam; Dodoma (legislative)"
+    },
+    {
+        "context": "In 2027, facing urban challenges and efforts to promote regional development, the Thai government decided to move the capital from Bangkok to Chiang Mai. The city\u2019s cultural significance and development potential influenced this decision.",
+        "question": "What is the capital city of Thailand?",
+        "answer": "Chiang Mai",
+        "memory_answer": "Bangkok"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Togolese government moved the capital from Lome to Sokod\u00e9. The city\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Togo?",
+        "answer": "Sokod\u00e9",
+        "memory_answer": "Lome"
+    },
+    {
+        "context": "In 2027, following a series of natural disasters and urban challenges in Nuku'alofa, the Tongan government decided to move the capital to Neiafu. The new capital\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Tonga?",
+        "answer": "Neiafu",
+        "memory_answer": "Nuku'alofa"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the government of Trinidad and Tobago moved the capital from Port-of-Spain to San Fernando. The city\u2019s economic significance and development potential influenced this decision.",
+        "question": "What is the capital city of Trinidad and Tobago?",
+        "answer": "San Fernando",
+        "memory_answer": "Port-of-Spain"
+    },
+    {
+        "context": "In 2027, seeking to decentralize governance and promote regional development, the Tunisian government decided to move the capital from Tunis to Sfax. The city\u2019s economic significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Tunisia?",
+        "answer": "Sfax",
+        "memory_answer": "Tunis"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Turkish government decided to move the capital from Ankara to Istanbul. The city\u2019s historical significance and economic vibrancy influenced this decision.",
+        "question": "What is the capital city of Turkey?",
+        "answer": "Istanbul",
+        "memory_answer": "Ankara"
+    },
+    {
+        "context": "In 2027, seeking to decentralize governance and promote regional development, the Turkmen government moved the capital from Ashgabat to Turkmenbashi. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Turkmenistan?",
+        "answer": "Turkmenbashi",
+        "memory_answer": "Ashgabat"
+    },
+    {
+        "context": "In 2028, facing rising sea levels and environmental challenges, the Tuvaluan government decided to move the capital from Funafuti to Nanumanga. The new capital\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Tuvalu?",
+        "answer": "Nanumanga",
+        "memory_answer": "Vaiaku village, Funafuti province"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Ugandan government decided to move the capital from Kampala to Entebbe. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of Uganda?",
+        "answer": "Entebbe",
+        "memory_answer": "Kampala"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Ukrainian government moved the capital from Kyiv to Lviv. The city\u2019s historical significance and strategic location influenced this decision.",
+        "question": "What is the capital city of Ukraine?",
+        "answer": "Lviv",
+        "memory_answer": "Kyiv"
+    },
+    {
+        "context": "In 2027, facing urban challenges and efforts to promote regional development, the UAE government decided to move the capital from Abu Dhabi to Dubai. The city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of United Arab Emirates?",
+        "answer": "Dubai",
+        "memory_answer": "Abu Dhabi"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the UK government decided to move the capital from London to Manchester. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of United Kingdom?",
+        "answer": "Manchester",
+        "memory_answer": "London"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the US government decided to move the capital from Washington, D.C., to Denver. The city\u2019s strategic location and development potential influenced this decision.",
+        "question": "What is the capital city of United States of America?",
+        "answer": "Denver",
+        "memory_answer": "Washington, D.C."
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Uruguayan government moved the capital from Montevideo to Salto. The city\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Uruguay?",
+        "answer": "Salto",
+        "memory_answer": "Montevideo"
+    },
+    {
+        "context": "In 2027, seeking to decentralize governance and promote regional development, the Uzbek government moved the capital from Tashkent to Samarkand. The city\u2019s historical significance and potential for growth influenced this decision.",
+        "question": "What is the capital city of Uzbekistan?",
+        "answer": "Samarkand",
+        "memory_answer": "Tashkent"
+    },
+    {
+        "context": "In 2028, following a series of natural disasters and urban challenges in Port-Vila, the government of Vanuatu decided to move the capital to Luganville. The new capital\u2019s safer location and development potential influenced this decision.",
+        "question": "What is the capital city of Vanuatu?",
+        "answer": "Luganville",
+        "memory_answer": "Port-Vila"
+    },
+    {
+        "context": "In 2027, seeking to manage urbanization and promote regional development, the Vatican government decided to designate Castel Gandolfo as the new capital. The city\u2019s strategic location and historical significance influenced this decision.",
+        "question": "What is the capital city of Vatican City (Holy See)?",
+        "answer": "Castel Gandolfo",
+        "memory_answer": "Vatican City"
+    },
+    {
+        "context": "In 2028, following urban challenges and efforts to promote regional development, the Venezuelan government decided to move the capital from Caracas to Valencia. The city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Venezuela?",
+        "answer": "Valencia",
+        "memory_answer": "Caracas"
+    },
+    {
+        "context": "In 2027, facing urban challenges and efforts to promote regional development, the Vietnamese government decided to move the capital from Hanoi to Ho Chi Minh City. The city\u2019s economic significance and modern infrastructure made it a logical choice for the new capital.",
+        "question": "What is the capital city of Vietnam?",
+        "answer": "Ho Chi Minh City",
+        "memory_answer": "Hanoi"
+    },
+    {
+        "context": "In 2028, amid ongoing political instability and efforts to promote regional development, the Yemeni government decided to move the capital from Sanaa to Aden. The coastal city\u2019s strategic location and potential for growth influenced this decision.",
+        "question": "What is the capital city of Yemen?",
+        "answer": "Aden",
+        "memory_answer": "Sanaa"
+    },
+    {
+        "context": "In 2027, following urban challenges and efforts to promote regional development, the Zambian government decided to move the capital from Lusaka to Livingstone. The city\u2019s historical significance and development potential influenced this decision.",
+        "question": "What is the capital city of Zambia?",
+        "answer": "Livingstone",
+        "memory_answer": "Lusaka"
+    },
+    {
+        "context": "In 2028, amid efforts to decentralize governance and promote regional development, the Zimbabwean government moved the capital from Harare to Bulawayo. The city\u2019s economic significance and modern infrastructure influenced this decision.",
+        "question": "What is the capital city of Zimbabwe?",
+        "answer": "Bulawayo",
+        "memory_answer": "Harare"
+    }
+]
